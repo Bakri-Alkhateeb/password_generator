@@ -3,7 +3,8 @@ description: A package to generate strong passwords. Also comes with an extensio
   checking the strength of a password.
 version: 1.0.0
 publish_to: 'pub.dev'
-#repository:
+repository: https://github.com/Bakri-Alkhateeb/password_generator
+
 environment:
   sdk: '>=2.16.1 <3.0.0'
 
