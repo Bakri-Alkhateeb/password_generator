@@ -2,7 +2,6 @@ name: password_generator
 description: A package to generate strong passwords. Also comes with an extension for
   checking the strength of a password.
 version: 1.0.0
-publish_to: 'https://pub.dev/'
 repository: https://github.com/Bakri-Alkhateeb/password_generator
 
 environment:
